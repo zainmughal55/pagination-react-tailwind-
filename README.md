@@ -1,3 +1,3 @@
 # pagination-react-tailwind-
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-1vi1re)
+Live preview: https://stackblitz-starters-1vi1re.stackblitz.io
